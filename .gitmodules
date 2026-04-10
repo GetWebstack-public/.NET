@@ -1,0 +1,12 @@
+[submodule "dotnet-aspnet"]
+	path = dotnet-aspnet
+	url = git@github.com:GetWebstack-public/dotnet-aspnet.git
+[submodule "dotnet-blazor"]
+	path = dotnet-blazor
+	url = git@github.com:GetWebstack-public/dotnet-blazor.git
+[submodule "dotnet-fsharp"]
+	path = dotnet-fsharp
+	url = git@github.com:GetWebstack-public/dotnet-fsharp.git
+[submodule "dotnet-minimal-api"]
+	path = dotnet-minimal-api
+	url = git@github.com:GetWebstack-public/dotnet-minimal-api.git
